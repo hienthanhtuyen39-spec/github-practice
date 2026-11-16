@@ -1,2 +1,8 @@
-# github-practice
-我的GITHUB学习笔记
+# 我的 GitHub 学习笔记
+
+这是我的第一个 GitHub 仓库。
+
+## 今天学会了
+- 创建仓库
+- 修改文件
+- 提交修改
